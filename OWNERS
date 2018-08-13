@@ -1,6 +1,9 @@
 approvers:
   - anfeng
   - rongou
+  # jlewi@ is just a backup in case above approvers aren't
+  # available.  
+  - jlewi
 reviewers:
   - beberg
   - everpeace
